@@ -1,0 +1,6 @@
+name: ${name}
+main: io.github.lxgaming.uuidgetter.bungee.BungeePlugin
+version: ${version}
+description: UUID Getter
+author: LX_Gaming
+website: https://lxgaming.github.io/
